@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+	width: 100%;
+}
+.item {
+    width: 32%;
+    padding-bottom: 32%;
+    background-color: orange;
+    float: left;
+    margin:0.6%; 
+    border-radius: 10px;
+}
