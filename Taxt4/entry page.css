@@ -48,7 +48,6 @@ a {
 .pass {
     margin-top: 10px;
     border: 1px solid white;
-    display: flex;
     justify-content: flex-start;
     background-color: white;
 }
