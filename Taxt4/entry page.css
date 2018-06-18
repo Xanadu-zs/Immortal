@@ -46,6 +46,7 @@ a {
 
 .fbody,
 .pass {
+    display: flex;
     margin-top: 10px;
     border: 1px solid white;
     justify-content: flex-start;
