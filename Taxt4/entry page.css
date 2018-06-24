@@ -46,6 +46,8 @@ a {
 
 .fbody,
 .pass {
+    margin-top: 20px;
+    border: 1px solid white;
     display: flex;
     margin-top: 10px;
     border: 1px solid white;
