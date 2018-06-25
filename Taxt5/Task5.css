@@ -114,23 +114,33 @@ header img {
 	font-weight: 600;
 }
 
-.menu5 {
-	display: flex;
+.menu5{
+	position: relative;
 	width: 650px;
     margin: 0 auto;
+    line-height: 60px;
+    color: #BFBFBF;
 }
 
-.menu5 p{
-
-    color: #BFBFBF;
+.menu5 span {
+	padding-right: 15px;
 	border-right: 1px solid #CBCBCB;
-	flex:1 auto;
+}
+
+.menu5 .wewe{
+	width: 550px;
+	height: 200px;
+	position: absolute;
+	margin-top: -45px;
+	margin-left: 90px;
+	line-height: 20px;
+
 }
 
 footer {
+	margin-top: 70px;
 	display: flex;
 	padding: 50px;
-	margin: 0 auto;
 }
 
 .leave_word{
