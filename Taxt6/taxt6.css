@@ -85,6 +85,8 @@ nav {
     justify-content: space-between;
     border-bottom: 1px solid #adadad;
 	text-align: center;
+    white-space: nowrap;
+
 
 
 }
@@ -154,17 +156,25 @@ li{
 
 .li-1c{
     margin-left: 32px;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+    width: 100%;
+
 }
+
 .day{
     font-size: 18px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow:ellipsis;
 }
+.li-2b {
+    white-space: nowrap;
+    
+}
 .price{
     color: #ec7d6b;
     font-size: 20px;
-    white-space: nowrap;
 }
 .into{
     color: #5FC0CD;
